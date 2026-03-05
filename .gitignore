@@ -1,0 +1,14 @@
+# Ignore a specific folder (e.g., if 'lit' was a folder of temporary files)
+backup/
+
+# Ignore compiled files
+*.class
+*.exe
+*.dll
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables / secrets
+.env
