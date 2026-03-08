@@ -1,5 +1,6 @@
 # Ignore a specific folder (e.g., if 'lit' was a folder of temporary files)
 backup/
+data/
 
 # Ignore compiled files
 *.class
