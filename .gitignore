@@ -1,7 +1,7 @@
 # Ignore a specific folder (e.g., if 'lit' was a folder of temporary files)
 backup/
 src/01 - sample solution/*.csv
-src/02 - prototype/*.csv
+src/02 - prototype/data
 
 # Ignore compiled files
 *.class
